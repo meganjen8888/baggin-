@@ -1,3 +1,4 @@
 # baggin-
 
-## 9/19/2023: Prepared the HTML and CSS files.
+## 9/19/2023
+Prepared HTML and CSS.
